@@ -1,6 +1,6 @@
 # Banking-Application
 
-### This is a simple banking application written in java.
+### This is a simple banking application written in Java that I made in college.
 
 Things to improve:
 - Modularize
